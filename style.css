@@ -1,0 +1,37 @@
+.button{
+    padding: 12px 15px;
+    border: 0; outline: 0;
+    background: #2dbf63;
+    color: #222;
+    font-size: 2rem;
+    font-weight: 500;
+      border-radius: 1rem;
+      cursor: pointer;
+
+}
+/*  hover */
+.button:hover{
+    opacity: 0.9;
+}
+/* data styling */
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#time{
+    padding: 12px;
+    border-radius: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(206, 206, 206);
+
+}
+/* content */
+#content{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    border: #2dbf63 2px solid;
+    border-radius: 2rem;
+    padding: 12px;
+ 
+}
