@@ -1,12 +1,16 @@
 # simple javascript dom 
 ## making a simple javascript file for doing dom oprations doring all thing in js.. 
 ### in all kind toping will uploaded this repo.... 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaNnGrw0t8mYGN-0PZTDjaT987It4mscWjA&usqp=CAU" align="center" />
+<div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaNnGrw0t8mYGN-0PZTDjaT987It4mscWjA&usqp=CAU" align="center" />
+  </div>
 <div align="center">
-# `What will be founded this repo` 
-## All kind javscript topics ... 
-### Linke hosting, clouser, variable all other important topics.. 
+  <h1> `What will be founded this repo` </h1>
+  <h2> All kind javscript topics ... </h2>
+  <h3> Linke hosting, clouser, variable all other important topics.. </h3>
+  <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="150"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWfun_hVV6L6pXqgVOhTk6R3zXmYQqwzAp95XaSA&s" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbrv1X7RLJ5udH6Ddp7erltF9Jcna9shLBEipNuJ3&s" />
+  </div>
 </div>
