@@ -1,6 +1,6 @@
 # simple javascript projects , all js frameworks ,  library ,    notes ... <img src="https://cdn-icons-png.flaticon.com/128/4067/4067628.png" width="60" />
 ## making a simple javascript file for doing dom oprations doring all thing in js.. 
- <h3 align="left">   𝗂𐓣 αᥣᥣ 𝗄𝗂𐓣ᑯ 𝗍ⱺρ𝗂𐓣𝗀 ω𝗂ᥣᥣ υρᥣⱺαᑯ𝖾ᑯ 𝗍ɦ𝗂𝗌 𝗋𝖾ρⱺ.... </h3>
+ <h3 align="right">   𝗂𐓣 αᥣᥣ 𝗄𝗂𐓣ᑯ 𝗍ⱺρ𝗂𐓣𝗀 ω𝗂ᥣᥣ υρᥣⱺαᑯ𝖾ᑯ 𝗍ɦ𝗂𝗌 𝗋𝖾ρⱺ.... </h3>
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaNnGrw0t8mYGN-0PZTDjaT987It4mscWjA&usqp=CAU" align="center" />
   </div>
